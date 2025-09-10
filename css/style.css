@@ -1,0 +1,110 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+.box1
+{ 
+    width: 200px; 
+    height:400px;
+    position: absolute;
+    top: 10px;
+    background-color: antiquewhite;  
+}
+.box2
+{ 
+        width:400px;
+    height: 400px;
+    background-color: aqua;
+ }
+.d-flex
+{
+    display: flex;
+}
+.p-2
+{
+    padding: 20px;
+}
+.m-2
+{
+    margin: 20px;
+}
+.Nelsonmandela
+{
+    overflow: hidden;
+    object-fit: cover;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+    padding:0px 14px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -14px;
+}
+section{
+    width: 100%;
+}
+.p-0{
+    padding:0px;
+}
+.p-25{
+    padding: 25px;
+}
+.ali-items-center
+{
+    align-items: center;
+}
+.box{
+    width: 8.33%;
+}
+.jus-end{
+    justify-content: flex-end;
+}
+.box2{
+    width: 16.66%;
+}
+.box3{
+    width: 25%;
+}
+.box4{
+    width: 33.33%;
+}
+.box5{
+    width: 41.66%;
+}
+.box6{
+    width: 50%;
+}
+.box7{
+    width: 58.33%;
+}
+.box8{
+    width: 66.66%;
+}
+.box9{
+    width: 75%;
+}
+.box10{
+    width: 83.33%;
+}
+.box11{
+    width: 91.66%;
+}
+.box12{
+    width: 100%;
+}
+.imgurl
+{
+    background-image: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY6B3RRcRn_b2mSDdSEkh49Y6Zwr9iQMB2G4-FzT8hBtE4G-qMKK7PFdGx3BZVfiGRh2HS71bNa1tieGmVilavli2rWgtG-h1dng5mtg');
+    background-size: cover;
+    background-repeat:no-repeat ;
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-position:60%;
+}   
